@@ -300,3 +300,5 @@ __pycache__/
 *.xsd.cs
 
 installer/setup\.exe
+
+*.exe
